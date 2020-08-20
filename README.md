@@ -1,3 +1,5 @@
+Unity version: 2019.4.4f1
+
 Very simple RPG Prototype made for teaching Unity and C# 
 by David Fernandez Gomez (davfergom@gmail.com)
 
